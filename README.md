@@ -1,2 +1,13 @@
-# IE9
-Browser 9 WINDOWS 7 Portable
+# Internet Explorer 9
+
+Internet Explorer 9 or IE9 (officially Windows Internet Explorer 9) is the ninth version of the Internet Explorer web browser for Windows. It was released by Microsoft on March 14, 2011, as the ninth version of Internet Explorer and the successor to Internet Explorer 8. Microsoft released Internet Explorer 9 as a major out-of-band version that was not tied to the release schedule of any particular version of Windows, unlike previous versions. It is the first version of Internet Explorer not to be bundled with a Windows operating system, although some OEMs have installed it with Windows 7 on their PCs.[5] Internet Explorer 9 is the last version that is called Windows Internet Explorer. The software was rebranded simply as Internet Explorer starting in 2012 with the release of Internet Explorer 10.
+
+![alt text](https://upload.wikimedia.org/wikipedia/en/3/39/Internet_Explorer_9_screenshot.png)
+
+Internet Explorer 9 supports ECMAScript 5 (ES5), several CSS 3 properties[6] and embedded ICC v2 or v4 color profiles support via Windows Color System, and has improved JavaScript performance. It was the last of the major web browsers to implement support for Scalable Vector Graphics (SVG).[7][8] It also features hardware-accelerated graphics rendering using Direct2D, hardware-accelerated text rendering using DirectWrite, hardware-accelerated video rendering using Media Foundation, imaging support provided by Windows Imaging Component, and high fidelity printing powered by the XML Paper Specification (XPS) print pipeline.[9] Internet Explorer 9 also supports the HTML media tags video and audio and the Web Open Font Format (WOFF).[10]
+
+Development of Internet Explorer 9 began shortly after Internet Explorer 8 was released. Microsoft began taking features suggestions through Microsoft Connect soon after Internet Explorer 8 was released.[11] The Internet Explorer team focused on improving support and performance for HTML5, CSS3, SVG, XHTML, JavaScript, hardware acceleration, and the user interface featuring agility and "a clean new design".[12]
+
+Microsoft first announced Internet Explorer 9 at PDC 2009 and spoke mainly about how it takes advantage of hardware acceleration in DirectX to improve the performance of web applications and improve the quality of web typography.
+
+Later, Microsoft announced that they had joined the W3C's SVG Working Group, which sparked speculation that Internet Explorer 9 will support the SVG W3C recommendation.[13] This was proven to be true at MIX 10, where they demonstrated support for basic SVG markup and improved support for HTML5. They also announced that they would increase the support greatly by the time the first Internet Explorer 9 Beta was released. The Internet Explorer team also introduced the new JavaScript engine for 32-bit Internet Explorer 9, codenamed Chakra, which uses Just-in-time compilation to execute JavaScript as native code.[14][15][16] In mid-September 2011, the Acid3 test was revised to remove a few "antiquated and unusual" tests and as a result IE9 now passes the test with a score of 100/100
